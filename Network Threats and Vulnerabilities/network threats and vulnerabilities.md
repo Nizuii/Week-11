@@ -5,7 +5,7 @@ This document provides a detailed overview of common network security concepts. 
 
 ---
 
-## Part 1: Common Network Threats 
+## Part 1: Common Network Threats   
 
 A **network threat** refers to a malicious act or actor with the potential to damage or disrupt a computer network or system. Threats are the "what" or "who" that could cause harm.
 
