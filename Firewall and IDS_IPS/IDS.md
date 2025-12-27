@@ -16,7 +16,7 @@ This lab demonstrates the fundamental role of an IDS as a passive "digital tripw
     * **IP Address:** `192.168.56.131`
 
 * **Testing Machine:**
-    * **Hostname:** `aadith@aadith-LOQ-15IAX9`
+    * **Hostname:** `nizam-HP-EliteBook-840-G6`
     * **IP Address:** `192.168.56.101`
 
 ---
