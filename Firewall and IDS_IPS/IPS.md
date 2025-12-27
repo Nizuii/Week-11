@@ -92,6 +92,6 @@ Snort not only provides **visibility into malicious traffic**, but can also **en
 
 ---
 
-**Author:** *AADITH CH*  
+**Author:** *Nizam*  
 **Date:** *22/10/2025*  
 **Course/Lab:** *Snort IPS Implementation Lab*
